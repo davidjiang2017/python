@@ -3,3 +3,18 @@ int   表示整数类型
 str   表示字符串类型
 bool  表示布尔类型，真true或假false
 float 表示浮点数，小数类型
+
+
+
+变量的类型：
+1.数字型
+整型int
+浮点型float
+布尔型bool   真true 非0    假flase 0
+复数型complex 
+
+2.非数字型
+字符串str   ""
+列表list    []
+元组tuple   ()
+字典dict    {}
