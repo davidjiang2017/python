@@ -18,3 +18,9 @@ float 表示浮点数，小数类型
 列表list    []
 元组tuple   ()
 字典dict    {}
+
+
+函数：
+type函数可以查看变量的类型：
+type（name）
+str
