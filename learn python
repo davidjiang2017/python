@@ -1,1 +1,11 @@
 python编辑器：pycharm   (www.jetbrains.com/pycharm)
+
+
+运算符  描述
++       加
+-       减
+*       乘
+/       除
+//      取除法的整数部分
+%       取除法的余数
+**      次方
